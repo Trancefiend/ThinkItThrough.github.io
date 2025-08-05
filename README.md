@@ -7,8 +7,6 @@ Welcome to the official site for our evidence-driven political platform. This pr
 You can view the live website at:  
 **https://ThinkItThrough.github.io**
 
-> Replace `yourusername` with your actual GitHub username once deployed.
-
 ---
 
 ## 📚 About the Platform
@@ -41,6 +39,7 @@ Files include:
 
 We welcome factual contributions, issue writeups, and policy insights.  
 If you'd like to help:
+
 1. Fork the repo
 2. Create a new branch
 3. Submit a pull request with your changes
@@ -62,7 +61,7 @@ You are free to share and adapt this content for non-commercial purposes, with p
 
 Want to reach out with ideas or feedback?
 
-📬 Email: `contact@yourdomain.org`  
+📬 Email: 
 📍 GitHub Issues tab for feature requests or discussions
 
 ---
